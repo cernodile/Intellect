@@ -1,8 +1,8 @@
 var formulas = require("./formulas.js");
 
-var getEndSeeds = formula.getEndSeeds;
-var getAvgBlocks = formula.getAvgBlocks;
-var getAvgSeeds = formula.getAvgSeeds;
+var getEndSeeds = formulas.getEndSeeds;
+var getAvgBlocks = formulas.getAvgBlocks;
+var getAvgSeeds = formulas.getAvgSeeds;
 var getAncestralBonusBlocks = formula.getAncestralBonusBlocks;
 
 module.exports = {
