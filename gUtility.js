@@ -1,11 +1,9 @@
 var Discord = require('discord.js')
 var bot = new Discord.Client()
-var items = require('./items.json')
-var mass = require('./recipes.json')
 var config = require('./config.json')
-var cmds = require("./commands.js")
-var moment = require('moment-timezone')
+var cmds = require('./commands.js')
 var prefix = config.prefix
+
 bot.login(config.token)
 bot.on('ready', () => {
   console.log('Ready!')
