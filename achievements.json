@@ -1,0 +1,502 @@
+{
+	"builder": {
+		"desc": "Earned from placing 100 blocks of any type",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/builder.png",
+		"name": "Builder"
+	},
+	"farmer": {
+		"desc": "Earned for harvesting 100 trees",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/farmer.png",
+		"name": "Farmer"
+	},
+	"demolition": {
+		"desc": "Earned for smashing 100 blocks",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/demolition.png",
+		"name": "Demolition"
+	},
+	"packrat": {
+		"desc": "Earned for holding 1,000 gems",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/packrat.png",
+		"name": "Packrat"
+	},
+	"big spender": {
+		"desc": "Earned for spending 10,000 gems",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/big_spender.png",
+		"name": "Big Spender"
+	},
+	"trashman": {
+		"desc": "Earned for disposing of 5,000 items",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/trashman.png",
+		"name": "Trashman"
+	},
+	"paint the town blue": {
+		"desc": "Earned for using 100 consumable items",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/paint_the_town_blue.png",
+		"name": "Paint The Town Blue"
+	},
+	"embiggened": {
+		"desc": "EEarned for upgrading backpack size to 26 slots",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/embiggened.png",
+		"name": "Embiggened"
+	},
+	"mine, all mine": {
+		"desc": "Earned for using any kind of lock",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/mine_all_mine.png",
+		"name": "Mine, All Mine"
+	},
+	"crime fighter": {
+		"desc": "Earned for defeating any criminal",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/crime_fighter.png",
+		"name": "Crime Fighter"
+	},
+	"ding!": {
+		"desc": "Earned for reaching Player Level 10",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/ding.png",
+		"name": "Ding!"
+	},
+	"social butterfly": {
+		"desc": "Earned for being in a world with 20 other people",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/social_butterfly.png",
+		"name": "Social Butterfly"
+	},
+	"you like me": {
+		"desc": "Earned for having a top 1000 world for the day",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/you_like_me.png",
+		"name": "You Like Me"
+	},
+	"milkin' it": {
+		"desc": "Earned for collecting 100 items from providers like Cows",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/milkin_it.png",
+		"name": "Milkin' It"
+	},
+	"bubble bubble ": {
+		"desc": "Earned for mixing 25 things in a Lab or Oven",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/bubble_bubble.png",
+		"name": "Bubble Bubble "
+	},
+	"surgeon": {
+		"desc": "Earned for successfully performing a surgery",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/surgeon.png",
+		"name": "Surgeon"
+	},
+	"legen...": {
+		"desc": "Earned for completing one step of a Legendary Quest",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/legen.png",
+		"name": "Legen..."
+	},
+	"sparkly dust": {
+		"desc": "Earned for collecting a Comet Dust",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/sparkly_dust.png",
+		"name": "Sparkly Dust"
+	},
+	"radiation hunter": {
+		"desc": "Earned for finding a Radioactive Chemical from Geiger Counter",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/radiation_hunter.png",
+		"name": "Radiation Hunter"
+	},
+	"daily challenge": {
+		"desc": "Earned for getting top 3 in a Daily Challenge",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/daily_challenge.png",
+		"name": "Daily Challenge"
+	},
+	"pro builder": {
+		"desc": "Earned for placing 1,000 blocks of any type",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/pro_builder.png",
+		"name": "Pro Builder"
+	},
+	"farmer in the dell": {
+		"desc": "Earned for harvesting 1,000 trees",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/farmer_in_the_dell.png",
+		"name": "Farmer In The Dell"
+	},
+	"wrecking crew": {
+		"desc": "Earned for smashing 1,000 blocks",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/wrecking_crew.png",
+		"name": "Wrecking Crew"
+	},
+	"hoarder": {
+		"desc": "Earned for holding 25,000 gems",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/hoarder.png",
+		"name": "Hoarder"
+	},
+	"ol' moneybags": {
+		"desc": "Earned for spending 100,000 gems",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/ol_moneybags.png",
+		"name": "Ol' Moneybags"
+	},
+	"splat!": {
+		"desc": "Earned for using 1,000 consumable items",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/splat.png",
+		"name": "Splat!"
+	},
+	"space commander": {
+		"desc": "Earned for upgrading backpack size to 86 slots",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/space_commander.png",
+		"name": "Space Commander"
+	},
+	"let the right one in": {
+		"desc": "Earned for being added to someone else's lock",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/let_the_right_one_in.png",
+		"name": "Let The Right One In"
+	},
+	"long time fan": {
+		"desc": "Earned for reaching player level 50",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/long_time_fan.png",
+		"name": "Long Time Fan"
+	},
+	"savior of the city": {
+		"desc": "Earned for defeating 100 villains",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/savior_of_the_city.png",
+		"name": "Savior Of The City"
+	},
+	"social monarch": {
+		"desc": "Earned for being in a world with 50 other people",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/social_monarch.png",
+		"name": "Social Monarch"
+	},
+	"what a world": {
+		"desc": "Earned for having a top 100 world for the day",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/what_a_world.png",
+		"name": "What a World"
+	},
+	"moo juice": {
+		"desc": "Earned for collecting 500 items from providers like Cows",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/moo_juice.png",
+		"name": "Moo Juice"
+	},
+	"givin' a hoot": {
+		"desc": "Earned for disposing of 50,000 items",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/givin_a_hoot.png",
+		"name": "Givin' A Hoot"
+	},
+	"mixologist": {
+		"desc": "Earned for mixing 250 things in a Lab or Oven",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/mixologist.png",
+		"name": "Mixologist"
+	},
+	"chief of surgery": {
+		"desc": "Earned for performing 20 successful surgeries",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/chief_of_surgery.png",
+		"name": "Chief Of Surgery"
+	},
+	"wait for it...": {
+		"desc": "Earned for completing 10 steps of a Legendary Quest",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/wait_for_it.png",
+		"name": "Wait For It..."
+	},
+	"growing a third arm": {
+		"desc": "Earned for finding 200 Radioactive Chemicals",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/growing_a_third_arm.png",
+		"name": "Growing A Third Arm"
+	},
+	"we are all stardust": {
+		"desc": "Earned for making a Starseed",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/we_are_all_stardust.png",
+		"name": "We Are All Stardust"
+	},
+	"monthly challenge": {
+		"desc": "Earned for getting top 3 in 30 Daily Challenges",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/monthly_challenge.png",
+		"name": "Monthly Challenge"
+	},
+	"expert builder": {
+		"desc": "Earned for placing 100,000 blocks of any type",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/expert_builder.png",
+		"name": "Expert Builder"
+	},
+	"farmasaurus rex": {
+		"desc": "Earned for harvesting 100,000 trees",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/farmasaurus_rex.png",
+		"name": "Farmasaurus Rex"
+	},
+	"annihilator": {
+		"desc": "Earned for smashing 100,000 blocks",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/annihilator.png",
+		"name": "Annihilator"
+	},
+	"filthy rich": {
+		"desc": "Earned for holding 500,000 gems",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/filthy_rich.png",
+		"name": "Filthy Rich"
+	},
+	"one meeellion": {
+		"desc": "Earned for spending 1,000,000 gems",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/one_meeellion.png",
+		"name": "One MEEELlion"
+	},
+	"this land is my land": {
+		"desc": "Earned for using a World Lock or Signal Jammer",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/this_land_is_my_land.png",
+		"name": "This Land Is My Land"
+	},
+	"supporter": {
+		"desc": "Earned for supporting the makers of Growtopia",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/supporter.png",
+		"name": "Supporter"
+	},
+	"kevin bacon": {
+		"desc": "Earned for being in a world with 99 other people",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/kevin_bacon.png",
+		"name": "Kevin Bacon"
+	},
+	"collector extraordinaire": {
+		"desc": "Earned for collecting 10,000 items from providers like Cows",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/collector_extraordinaire.png",
+		"name": "Collector Extraordinaire"
+	},
+	"ocd": {
+		"desc": "Earned for disposing of 500,000 items",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/ocd.png",
+		"name": "OCD"
+	},
+	"surgeon general": {
+		"desc": "Earned for performing 100 successful surgeries",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/surgeon_general.png",
+		"name": "Surgeon General"
+	},
+	"atomic luck": {
+		"desc": "Earned for finding a Radioactive Chemical during the Night of the Comet",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/atomic_luck.png",
+		"name": "Atomic Luck"
+	},
+	"master of space and time": {
+		"desc": "Earned for upgrading backpack size to 196 slots",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/master_of_space_and_time.png",
+		"name": "Master Of Space And Time"
+	},
+	"king of the world": {
+		"desc": "Earned for getting World Of The Day",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/king_of_the_world.png",
+		"name": "King Of The World"
+	},
+	"intergallactic": {
+		"desc": "Earned for splicing a Galactic Seed with another seed",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/intergallactic.png",
+		"name": "Intergallactic"
+	},
+	"superhero": {
+		"desc": "Earned for defeating Dr. Destructo",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/superhero.png",
+		"name": "Superhero"
+	},
+	"dary!": {
+		"desc": "Earned for completing a Legendary Quest",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/dary.png",
+		"name": "DARY!"
+	},
+	"mad vandal": {
+		"desc": "Earned for using 25,000 consumable items",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/mad_vandal.png",
+		"name": "Mad Vandal"
+	},
+	"best of all possible worlds": {
+		"desc": "Earned by reaching #1 Honors today",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/best_of_all_possible_worlds.png",
+		"name": "Best Of All Possible Worlds"
+	},
+	"science!": {
+		"desc": "Earned for mixing 5,000 things in a Lab or Oven",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/science.png",
+		"name": "SCIENCE!"
+	},
+	"obsessive growtopian": {
+		"desc": "Earned for reaching Player Level 99",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/obsessive_growtopian.png",
+		"name": "Obsessive Growtopian"
+	},
+	"hacked the server": {
+		"desc": "Earned for defeating Almighty Seth and Devil Ham",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/hacked_the_server.png",
+		"name": "Hacked The Server"
+	},
+	"failure-challenged": {
+		"desc": "Earned for getting 1st in a Daily Challenge",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/failure_challenged.png",
+		"name": "Failure-Challenged"
+	},
+	"fishmaster": {
+		"desc": "Earned for catching a 200lb fish",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/fishmaster.png",
+		"name": "Fishmaster"
+	},
+	"celebrate good times": {
+		"desc": "Earned for showing up for Growtopia's Anniversary",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/celebrate_good_times.png",
+		"name": "Celebrate Good Times"
+	},
+	"life of the party": {
+		"desc": "Earned for firing a Skyrocket while wearing a full Party outfit",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/life_of_the_party.png",
+		"name": "Life of the Party"
+	},
+	"first birthday": {
+		"desc": "Earned for having a Growtopia account for a year",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/first_birthday.png",
+		"name": "First Birthday"
+	},
+	"growtopian of the year": {
+		"desc": "Earned for completing all holiday achievements",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/growtopian_of_the_year.png",
+		"name": "Growtopian Of The Year"
+	},
+	"second birthday": {
+		"desc": "Earned for being Level 50, and playing Growtopia for 2 whole years",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/second_birthday.png",
+		"name": "Second Birthday"
+	},
+	"heartbreaker": {
+		"desc": "Earned for smashing a Heartstone or Golden Booty Chest",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/heartbreaker.png",
+		"name": "Heartbreaker"
+	},
+	"stupid cupid": {
+		"desc": "Earned for wearing a complete Cupid outfit, including Golden Halo",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/stupid_cupid.png",
+		"name": "Stupid Cupid"
+	},
+	"four leaves": {
+		"desc": "Earned for using a Lucky Clover",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/four_leaves.png",
+		"name": "Four Leaves"
+	},
+	"little green man": {
+		"desc": "Earned for catching a Leprechaun",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/little_green_man.png",
+		"name": "Little Green Man"
+	},
+	"got lucky charms": {
+		"desc": "Earned for defeating Paddy O'Malice",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/got_lucky_charms.png",
+		"name": "Got Lucky Charms"
+	},
+	"sixteen dozen": {
+		"desc": "Earned for collecting 192 Magic Eggs",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/sixteen_dozen.png",
+		"name": "Sixteen Dozen"
+	},
+	"bouncing baby bunny": {
+		"desc": "Earned for hatching a Pet Bunny",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/bouncing_baby_bunny.png",
+		"name": "Bouncing Baby Bunny"
+	},
+	"a dead rabbit": {
+		"desc": "Earned for defeating Bunny Barko",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/a_dead_rabbit.png",
+		"name": "A Dead Rabbit"
+	},
+	"egg hunter": {
+		"desc": "Earned for collecting 20 Easter Eggs with the Egg-Hunting Basket",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/egg_hunter.png",
+		"name": "Egg Hunter"
+	},
+	"bash cinco": {
+		"desc": "Earned for smashing 5 Ultra Pinatas",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/bash_cinco.png",
+		"name": "Bash Cinco"
+	},
+	"la vida de la fiesta": {
+		"desc": "Earned for playing a Mariachi Guitar while wearing a Fiesta Sombrero",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/la_vida_de_la_fiesta.png",
+		"name": "La Vida De La Fiesta"
+	},
+	"gorro": {
+		"desc": "Earned for slashing a G into somebody's shirt while dressed in a full Gorro outfit. (Foxy Hat, Swordsman's Mask, Cape of Shadows and Rapier)",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/gorro.png",
+		"name": "Gorro"
+	},
+	"campeon": {
+		"desc": "Earned for defeating El Peligro for the Championship of the world",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/campeon.png",
+		"name": "Campeon"
+	},
+	"too many pineapples": {
+		"desc": "Earned for eating as many pineapples as you can stomach",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/too_many_pineapples.png",
+		"name": "Too Many Pineapples"
+	},
+	"fresh air": {
+		"desc": "Earned for defeating the villain Pine Fresh",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/fresh_air.png",
+		"name": "Fresh Air"
+	},
+	"the last celebration": {
+		"desc": "Earned for detonating Super Fireworks",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/the_last_celebration.png",
+		"name": "The Last Celebration"
+	},
+	"summer grillin'": {
+		"desc": "Earned for cooking a Cheeseburger on a Barbecue Grill",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/summer_grillin.png",
+		"name": "Summer Grillin'"
+	},
+	"bright future": {
+		"desc": "Earned for harvesting a Balance Mooncake",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/bright_future.png",
+		"name": "Bright Future"
+	},
+	"harvester of worlds": {
+		"desc": "Earned for using a Harvest Moon Blast",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/harvester_of_worlds.png",
+		"name": "Harvester of Worlds"
+	},
+	"sacrifice": {
+		"desc": "Earned for feeding Growganoth 50 times",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/sacrifice.png",
+		"name": "Sacrifice"
+	},
+	"costume contest": {
+		"desc": "Earned for dressing as a vampire",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/costume_contest.png",
+		"name": "Costume Contest"
+	},
+	"spirit of giving": {
+		"desc": "Earned for giving the Growch 100 Winter Gifts",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/spirit_of_giving.png",
+		"name": "Spirit of Giving"
+	},
+	"deer hunter": {
+		"desc": "Earned for shooting a player in an Antler Hat",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/deer_hunter.png",
+		"name": "Deer Hunter"
+	},
+	"crack shot": {
+		"desc": "Earned for doubling the required score in Shooting Gallery",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/crack_shot.png",
+		"name": "Crack Shot"
+	},
+	"disciple of growganoth": {
+		"desc": "Earned for completing Growganoth Gulch without dying",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/disciple_of_growganoth.png",
+		"name": "Disciple of Growganoth"
+	},
+	"concentrated power of will": {
+		"desc": "Earned for completing Concentration in half the allowed time",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/concentrated_power_of_will.png",
+		"name": "Concentrated Power of Will"
+	},
+	"seven years good luck ": {
+		"desc": "Earned for completing the Mirror Maze in half the allowed time",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/seven_years_good_luck.png",
+		"name": "Seven Years Good Luck "
+	},
+	"ringu": {
+		"desc": "Earned for earning a ring from the Ringmaster",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/ringu.png",
+		"name": "Ringu"
+	},
+	"wasted": {
+		"desc": "Earned for wasting a Golden Ticket",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/wasted.png",
+		"name": "Wasted"
+	},
+	"death racer": {
+		"desc": "Earned for winning Death Race 5000 against 3 opponents",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/death_racer.png",
+		"name": "Death Racer"
+	},
+	"the brutalest bounce": {
+		"desc": "Earned for winning Brutal Bounce against 5 opponents",
+		"icon": "https://cdn.cernodile.com/growtopia/achieve/the_brutalest_bounce.png",
+		"name": "The Brutalest Bounce"
+	}
+}

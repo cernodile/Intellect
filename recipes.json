@@ -1,0 +1,3415 @@
+{
+    "door": [
+        "dirt",
+        "cave background"
+    ],
+    "grass": [
+        "dirt",
+        "rock"
+    ],
+    "sign": [
+        "rock",
+        "cave background"
+    ],
+    "wood block": [
+        "dirt",
+        "lava"
+    ],
+    "glass pane": [
+        "lava",
+        "rock"
+    ],
+    "lava rock": [
+        "lava",
+        "cave background"
+    ],
+    "martian tree": [
+        "martian soil",
+        "martian rock"
+    ],
+    "cave column": [
+        "cave dirt",
+        "dark cave background"
+    ],
+    "wooden background": [
+        "door",
+        "grass"
+    ],
+    "pointy sign": [
+        "door",
+        "sign"
+    ],
+    "crappy sign": [
+        "door",
+        "dirt"
+    ],
+    "daisy": [
+        "grass",
+        "dirt"
+    ],
+    "wooden platform": [
+        "grass",
+        "wood block"
+    ],
+    "rock background": [
+        "rock",
+        "door"
+    ],
+    "bricks": [
+        "rock",
+        "grass"
+    ],
+    "rose": [
+        "grass",
+        "lava"
+    ],
+    "super crate box": [
+        "dirt",
+        "sign"
+    ],
+    "mushroom": [
+        "cave background",
+        "grass"
+    ],
+    "cargo shorts": [
+        "dirt",
+        "wood block"
+    ],
+    "happy joy plaque": [
+        "door",
+        "cave background"
+    ],
+    "amber glass": [
+        "glass pane",
+        "dirt"
+    ],
+    "torch": [
+        "sign",
+        "lava"
+    ],
+    "wheat": [
+        "grass",
+        "sand"
+    ],
+    "terracotta pot": [
+        "martian tree",
+        "martian soil"
+    ],
+    "danger sign": [
+        "lava",
+        "pointy sign"
+    ],
+    "window": [
+        "wooden background",
+        "glass pane"
+    ],
+    "shallot mustache": [
+        "mushroom",
+        "grass"
+    ],
+    "grey block": [
+        "rock",
+        "bricks"
+    ],
+    "black block": [
+        "cave background",
+        "bricks"
+    ],
+    "white block": [
+        "mushroom",
+        "bricks"
+    ],
+    "red block": [
+        "lava",
+        "bricks"
+    ],
+    "yellow block": [
+        "daisy",
+        "bricks"
+    ],
+    "green block": [
+        "grass",
+        "bricks"
+    ],
+    "aqua block": [
+        "glass pane",
+        "bricks"
+    ],
+    "brown block": [
+        "dirt",
+        "bricks"
+    ],
+    "poppy": [
+        "rose",
+        "daisy"
+    ],
+    "flowery wallpaper": [
+        "daisy",
+        "wooden background"
+    ],
+    "messy brown hair": [
+        "crappy sign",
+        "grass"
+    ],
+    "mud glob": [
+        "dirt",
+        "daisy"
+    ],
+    "stinky socks": [
+        "mushroom",
+        "dirt"
+    ],
+    "tan shirt": [
+        "rock background",
+        "dirt"
+    ],
+    "cliffside": [
+        "rock background",
+        "boulder"
+    ],
+    "hand torch": [
+        "torch",
+        "cave dirt"
+    ],
+    "mini blocks": [
+        "sandstone wall",
+        "terracotta pot"
+    ],
+    "dungeon door": [
+        "window",
+        "door"
+    ],
+    "shades": [
+        "black block",
+        "glass pane"
+    ],
+    "tuxedo": [
+        "grey block",
+        "rose"
+    ],
+    "green shirt": [
+        "grass",
+        "green block"
+    ],
+    "brown shoes": [
+        "cave background",
+        "brown block"
+    ],
+    "boots": [
+        "rock",
+        "black block"
+    ],
+    "red hair": [
+        "grass",
+        "red block"
+    ],
+    "jeans": [
+        "aqua block",
+        "rock"
+    ],
+    "aqua hair": [
+        "pastel aqua flower block",
+        "happy unicorn block"
+    ],
+    "top hat": [
+        "black block",
+        "mushroom"
+    ],
+    "brown hair": [
+        "dirt",
+        "brown block"
+    ],
+    "black pants": [
+        "door",
+        "black block"
+    ],
+    "golf pants": [
+        "checker wallpaper",
+        "purple wallpaper"
+    ],
+    "green skirt": [
+        "poppy",
+        "green block"
+    ],
+    "blonde bombshell": [
+        "yellow block",
+        "grass"
+    ],
+    "toilet": [
+        "crappy sign",
+        "brown block"
+    ],
+    "painting: yerfdog": [
+        "wooden background",
+        "white block"
+    ],
+    "painting: dink duck": [
+        "wooden background",
+        "yellow block"
+    ],
+    "brick background": [
+        "black block",
+        "bricks"
+    ],
+    "red riding hood": [
+        "red block",
+        "mushroom"
+    ],
+    "hot head": [
+        "lava",
+        "red block"
+    ],
+    "cyclopean visor": [
+        "window",
+        "red block"
+    ],
+    "biker stache": [
+        "brown block",
+        "grass"
+    ],
+    "x-ray specs": [
+        "glass pane",
+        "white block"
+    ],
+    "gold-rimmed glasses": [
+        "yellow block",
+        "window"
+    ],
+    "death spikes": [
+        "danger sign",
+        "rock background"
+    ],
+    "orange block": [
+        "poppy",
+        "bricks"
+    ],
+    "bush": [
+        "poppy",
+        "rose"
+    ],
+    "stripey wallpaper": [
+        "green block",
+        "aqua block"
+    ],
+    "referee shirt": [
+        "black block",
+        "white block"
+    ],
+    "flashlight": [
+        "black block",
+        "yellow block"
+    ],
+    "rooster hat": [
+        "yellow block",
+        "white block"
+    ],
+    "santa hat": [
+        "red block",
+        "white block"
+    ],
+    "santa vest": [
+        "lava",
+        "white block"
+    ],
+    "santa pants": [
+        "lava",
+        "grey block"
+    ],
+    "evil bricks": [
+        "lava",
+        "black block"
+    ],
+    "long brown hair": [
+        "wooden table",
+        "grass"
+    ],
+    "stone wall": [
+        "grey block",
+        "rock"
+    ],
+    "lovely pink dress": [
+        "flowery wallpaper",
+        "mushroom"
+    ],
+    "glass block": [
+        "aqua block",
+        "glass pane"
+    ],
+    "sheet music: blank": [
+        "super crate box",
+        "white block"
+    ],
+    "red bricks": [
+        "red block",
+        "bricks"
+    ],
+    "pencil": [
+        "yellow block",
+        "wood block"
+    ],
+    "worthless rags": [
+        "dirt",
+        "mud glob"
+    ],
+    "barn block": [
+        "super crate box",
+        "red block"
+    ],
+    "red wood wall": [
+        "red block",
+        "wooden background"
+    ],
+    "rock platform": [
+        "cliffside",
+        "martian rock"
+    ],
+    "window curtains": [
+        "pastel pink block",
+        "window"
+    ],
+    "pastel pink block": [
+        "red block",
+        "magic egg"
+    ],
+    "pastel green block": [
+        "green block",
+        "magic egg"
+    ],
+    "pastel yellow block": [
+        "yellow block",
+        "magic egg"
+    ],
+    "pastel aqua block": [
+        "aqua block",
+        "magic egg"
+    ],
+    "pastel orange block": [
+        "orange block",
+        "magic egg"
+    ],
+    "pastel pink flower block": [
+        "pastel pink block",
+        "magic egg"
+    ],
+    "pastel green flower block": [
+        "pastel green block",
+        "magic egg"
+    ],
+    "pastel orange flower block": [
+        "pastel orange block",
+        "magic egg"
+    ],
+    "pastel aqua flower block": [
+        "pastel aqua block",
+        "magic egg"
+    ],
+    "pastel yellow flower block": [
+        "pastel yellow block",
+        "magic egg"
+    ],
+    "leopard leggings": [
+        "pastel orange block",
+        "cliffside"
+    ],
+    "flower sarong": [
+        "pastel pink flower block",
+        "rose"
+    ],
+    "baseball cap": [
+        "bush",
+        "wooden platform"
+    ],
+    "portcullis": [
+        "dungeon door",
+        "death spikes"
+    ],
+    "olde timey radio": [
+        "toilet",
+        "dungeon door"
+    ],
+    "spikey hair": [
+        "yellow block",
+        "death spikes"
+    ],
+    "afro": [
+        "bush",
+        "black block"
+    ],
+    "green blouse": [
+        "bush",
+        "green block"
+    ],
+    "briefcase": [
+        "brown block",
+        "stripey wallpaper"
+    ],
+    "sword": [
+        "death spikes",
+        "rock background"
+    ],
+    "red coat": [
+        "red block",
+        "bush"
+    ],
+    "devil horns": [
+        "death spikes",
+        "lava"
+    ],
+    "big glasses": [
+        "window",
+        "wooden window"
+    ],
+    "blueberry": [
+        "bush",
+        "mushroom"
+    ],
+    "burglar mask": [
+        "cave background",
+        "brick background"
+    ],
+    "froghat": [
+        "bush",
+        "aqua block"
+    ],
+    "wooden chair": [
+        "wooden platform",
+        "toilet"
+    ],
+    "house entrance": [
+        "dungeon door",
+        "door"
+    ],
+    "bathtub": [
+        "toilet",
+        "white block"
+    ],
+    "white beard": [
+        "white block",
+        "bush"
+    ],
+    "asbestos boots": [
+        "evil bricks",
+        "yellow block"
+    ],
+    "cuzco wall mount": [
+        "painting: yerfdog",
+        "dungeon door"
+    ],
+    "polka dot block": [
+        "white block",
+        "orange block"
+    ],
+    "checker wallpaper": [
+        "window",
+        "evil bricks"
+    ],
+    "viking helmet": [
+        "stone wall",
+        "pointy sign"
+    ],
+    "pigtails": [
+        "orange block",
+        "daisy"
+    ],
+    "cactus": [
+        "bush",
+        "death spikes"
+    ],
+    "dresser": [
+        "wooden table",
+        "dungeon door"
+    ],
+    "big old sideways arrow": [
+        "orange block",
+        "pointy sign"
+    ],
+    "sheet music: piano note": [
+        "sheet music: blank",
+        "green block"
+    ],
+    "sheet music: drums": [
+        "sheet music: blank",
+        "brown block"
+    ],
+    "barrel": [
+        "dungeon door",
+        "super crate box"
+    ],
+    "grimstone": [
+        "stone wall",
+        "grass"
+    ],
+    "biohazard sign": [
+        "orange block",
+        "danger sign"
+    ],
+    "gambler's visor": [
+        "green block",
+        "glass block"
+    ],
+    "water bucket": [
+        "toilet",
+        "aqua block"
+    ],
+    "barn door": [
+        "barn block",
+        "door"
+    ],
+    "patent leather shoes": [
+        "brick background",
+        "grey block"
+    ],
+    "tomato": [
+        "mud glob",
+        "red bricks"
+    ],
+    "sidewalk": [
+        "red bricks",
+        "grey block"
+    ],
+    "foliage": [
+        "bush",
+        "hedge"
+    ],
+    "staircase": [
+        "red wood wall",
+        "wooden platform"
+    ],
+    "exclamation sign": [
+        "barn block",
+        "martian tree"
+    ],
+    "red glass block": [
+        "glass block",
+        "red block"
+    ],
+    "messy auburn tresses": [
+        "red bricks",
+        "crappy sign"
+    ],
+    "tiger block": [
+        "orange block",
+        "black block"
+    ],
+    "flat-top": [
+        "rock platform",
+        "wooden table"
+    ],
+    "twisted spikes": [
+        "death spikes",
+        "evil bricks"
+    ],
+    "texas limestone": [
+        "stone wall",
+        "cliffside"
+    ],
+    "cave platform": [
+        "cave column",
+        "rock platform"
+    ],
+    "stalactite": [
+        "death spikes",
+        "dark cave background"
+    ],
+    "stalagmite": [
+        "death spikes",
+        "cave dirt"
+    ],
+    "just one boxing glove": [
+        "red block",
+        "blueberry"
+    ],
+    "jodhpurs": [
+        "window curtains",
+        "sandstone"
+    ],
+    "pickaxe": [
+        "portcullis",
+        "cave background"
+    ],
+    "brainwave capacitor": [
+        "olde timey radio",
+        "yellow block"
+    ],
+    "tv head": [
+        "olde timey radio",
+        "wood block"
+    ],
+    "blue block": [
+        "bricks",
+        "blueberry"
+    ],
+    "picket fence": [
+        "wooden chair",
+        "white block"
+    ],
+    "long black hair": [
+        "black block",
+        "portcullis"
+    ],
+    "bed": [
+        "mushroom",
+        "wooden chair"
+    ],
+    "snorkel": [
+        "bathtub",
+        "glass pane"
+    ],
+    "rubber ducky": [
+        "painting: dink duck",
+        "bathtub"
+    ],
+    "tie dyed shirt": [
+        "polka dot block",
+        "checker wallpaper"
+    ],
+    "sexy boxers": [
+        "polka dot block",
+        "rose"
+    ],
+    "monster feet": [
+        "green block",
+        "devil horns"
+    ],
+    "bubble wrap": [
+        "glass pane",
+        "blueberry"
+    ],
+    "sandstone": [
+        "cactus",
+        "dirt"
+    ],
+    "plumbing": [
+        "green block",
+        "bathtub"
+    ],
+    "big old down arrow": [
+        "pointy sign",
+        "devil horns"
+    ],
+    "sheet music: sharp piano": [
+        "sheet music: piano note",
+        "death spikes"
+    ],
+    "sheet music: flat piano": [
+        "sheet music: piano note",
+        "rock"
+    ],
+    "secret passage": [
+        "wood block",
+        "big old sideways arrow"
+    ],
+    "lattice background": [
+        "wooden background",
+        "wooden chair"
+    ],
+    "tangram block a": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block b": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block c": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block d": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block e": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block f": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block g": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block h": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block i": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block j": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block k": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "tangram block l": [
+        "grey block",
+        "checker wallpaper"
+    ],
+    "baseball bat": [
+        "house entrance",
+        "sign"
+    ],
+    "apple": [
+        "blueberry",
+        "red bricks"
+    ],
+    "school desk": [
+        "orange block",
+        "wood block"
+    ],
+    "grey hair bun": [
+        "olde timey radio",
+        "grey block"
+    ],
+    "zombie stompin' boots": [
+        "grimstone",
+        "death spikes"
+    ],
+    "wrought-iron fence": [
+        "portcullis",
+        "pencil"
+    ],
+    "barky's mask": [
+        "painting: yerfdog",
+        "barrel"
+    ],
+    "seaweed": [
+        "water bucket",
+        "bush"
+    ],
+    "ancient stone gate": [
+        "sandstone wall",
+        "portcullis"
+    ],
+    "street sign": [
+        "pointy sign",
+        "sidewalk"
+    ],
+    "tenement building": [
+        "house entrance",
+        "garbage"
+    ],
+    "gargoyle": [
+        "devil horns",
+        "grimstone"
+    ],
+    "face bandana": [
+        "polka dot block",
+        "pastel blue block"
+    ],
+    "clown nose": [
+        "happy joy plaque",
+        "tomato"
+    ],
+    "clown pants": [
+        "polka dot block",
+        "happy joy plaque"
+    ],
+    "climbing vine": [
+        "foliage",
+        "staircase"
+    ],
+    "olde-timey hat": [
+        "olde timey radio",
+        "brown block"
+    ],
+    "dark grey block": [
+        "grey block",
+        "grimstone"
+    ],
+    "dark red block": [
+        "red block",
+        "grimstone"
+    ],
+    "dark green block": [
+        "green block",
+        "grimstone"
+    ],
+    "dark yellow block": [
+        "yellow block",
+        "grimstone"
+    ],
+    "dark brown block": [
+        "brown block",
+        "grimstone"
+    ],
+    "dark aqua block": [
+        "aqua block",
+        "grimstone"
+    ],
+    "dark orange block": [
+        "orange block",
+        "grimstone"
+    ],
+    "sabertooth-skin toga": [
+        "polka dot block",
+        "pastel orange block"
+    ],
+    "shredded t-shirt": [
+        "devil horns",
+        "grey block"
+    ],
+    "arrow placard": [
+        "big old sideways arrow",
+        "pointy sign"
+    ],
+    "firefighter jacket": [
+        "big old sideways arrow",
+        "orange block"
+    ],
+    "rock hammer": [
+        "stalagmite",
+        "cave platform"
+    ],
+    "salt block": [
+        "stalactite",
+        "texas limestone"
+    ],
+    "ski cap": [
+        "blue block",
+        "mushroom"
+    ],
+    "purple block": [
+        "blue block",
+        "red block"
+    ],
+    "note block": [
+        "blue block",
+        "olde timey radio"
+    ],
+    "checkered pajamas": [
+        "checker wallpaper",
+        "bed"
+    ],
+    "peg leg": [
+        "rubber ducky",
+        "wooden table"
+    ],
+    "music box": [
+        "rubber ducky",
+        "olde timey radio"
+    ],
+    "dreamstone": [
+        "bed",
+        "orange block"
+    ],
+    "das red balloon": [
+        "bubble wrap",
+        "red block"
+    ],
+    "blue star wallpaper": [
+        "blue block",
+        "amber glass"
+    ],
+    "wall like an egyptian": [
+        "sandstone",
+        "mud glob"
+    ],
+    "backpack": [
+        "bed",
+        "super crate box"
+    ],
+    "red sweatpants": [
+        "big old down arrow",
+        "white block"
+    ],
+    "sheet music: bass note": [
+        "sheet music: blank",
+        "blue block"
+    ],
+    "copper plumbing": [
+        "plumbing",
+        "orange block"
+    ],
+    "granite block": [
+        "sandstone",
+        "sandstone wall"
+    ],
+    "iron bars": [
+        "plumbing",
+        "death spikes"
+    ],
+    "acid": [
+        "plumbing",
+        "cactus"
+    ],
+    "antidote": [
+        "apple",
+        "blueberry"
+    ],
+    "military radio": [
+        "biohazard sign",
+        "sheet music: sharp piano"
+    ],
+    "screen door": [
+        "lattice background",
+        "door"
+    ],
+    "pitchfork": [
+        "wrought iron fence",
+        "crappy sign"
+    ],
+    "sugar cane": [
+        "seaweed",
+        "happy joy plaque"
+    ],
+    "secret of growtopia": [
+        "sheet music: blank",
+        "secret passage"
+    ],
+    "western building": [
+        "tenement building",
+        "sand"
+    ],
+    "rustic fence": [
+        "picket fence",
+        "crappy sign"
+    ],
+    "for sale sign": [
+        "street sign",
+        "red block"
+    ],
+    "gem sign": [
+        "street sign",
+        "yellow block"
+    ],
+    "coral": [
+        "seaweed",
+        "ocean rock"
+    ],
+    "clown shoes": [
+        "rubber ducky",
+        "red block"
+    ],
+    "amphora": [
+        "ancient stone gate",
+        "barrel"
+    ],
+    "long black bangs": [
+        "black block",
+        "big old down arrow"
+    ],
+    "long blonde bangs": [
+        "sandstone wall",
+        "big old down arrow"
+    ],
+    "diving board": [
+        "sandstone",
+        "wooden platform"
+    ],
+    "seagull": [
+        "seaweed",
+        "rubber ducky"
+    ],
+    "viney block": [
+        "dark green block",
+        "grass"
+    ],
+    "viney wallpaper": [
+        "dark aqua block",
+        "grass"
+    ],
+    "air duct": [
+        "grey block",
+        "dark grey block"
+    ],
+    "swiss cheese block": [
+        "bubble wrap",
+        "pastel yellow block"
+    ],
+    "innie block": [
+        "bubble wrap",
+        "pastel blue block"
+    ],
+    "pastel blue block": [
+        "blue block",
+        "magic egg"
+    ],
+    "pastel blue flower block": [
+        "pastel blue block",
+        "magic egg"
+    ],
+    "outie block": [
+        "bubble wrap",
+        "pastel orange block"
+    ],
+    "dark blue block": [
+        "grimstone",
+        "blue block"
+    ],
+    "blue glass block": [
+        "glass block",
+        "blue block"
+    ],
+    "blue skirt": [
+        "blue block",
+        "pastel blue block"
+    ],
+    "jade block": [
+        "dark aqua block",
+        "dark green block"
+    ],
+    "climbing wall": [
+        "climbing vine",
+        "cave column"
+    ],
+    "disguise glasses": [
+        "window",
+        "secret passage"
+    ],
+    "ginger hair bun": [
+        "dark orange block",
+        "red wood wall"
+    ],
+    "firefighter pants": [
+        "big old down arrow",
+        "orange block"
+    ],
+    "rock chisel": [
+        "arrow placard",
+        "teeny blocks"
+    ],
+    "purple thong": [
+        "purple block",
+        "danger sign"
+    ],
+    "purple bikini top": [
+        "purple block",
+        "rose"
+    ],
+    "steel block": [
+        "purple block",
+        "portcullis"
+    ],
+    "purple mohawk": [
+        "purple block",
+        "picket fence"
+    ],
+    "rainbow block": [
+        "purple block",
+        "orange block"
+    ],
+    "monocle": [
+        "music box",
+        "window"
+    ],
+    "poodle skirt": [
+        "das red balloon",
+        "dreamstone"
+    ],
+    "cloudstone": [
+        "dreamstone",
+        "aqua block"
+    ],
+    "lollipop": [
+        "purple block",
+        "blueberry"
+    ],
+    "table lamp": [
+        "blue star wallpaper",
+        "wooden table"
+    ],
+    "race start flag": [
+        "blue star wallpaper",
+        "pointy sign"
+    ],
+    "big old up arrow": [
+        "das red balloon",
+        "pointy sign"
+    ],
+    "sheet music: sharp bass": [
+        "sheet music: bass note",
+        "death spikes"
+    ],
+    "sheet music: flat bass": [
+        "sheet music: bass note",
+        "rock"
+    ],
+    "marble block": [
+        "granite block",
+        "dreamstone"
+    ],
+    "jail door": [
+        "iron bars",
+        "portcullis"
+    ],
+    "toxic waste barrel": [
+        "acid",
+        "barrel"
+    ],
+    "card block": [
+        "tangram block",
+        "das red balloon"
+    ],
+    "showgirl leggings": [
+        "blue star wallpaper",
+        "lattice background"
+    ],
+    "showgirl headdress": [
+        "blue star wallpaper",
+        "portcullis"
+    ],
+    "neon lights": [
+        "purple block",
+        "glass block"
+    ],
+    "velvet rope": [
+        "copper plumbing",
+        "big old sideways arrow"
+    ],
+    "western banner": [
+        "western building",
+        "sign"
+    ],
+    "saloon doors": [
+        "western building",
+        "door"
+    ],
+    "potted daisy": [
+        "amphora",
+        "daisy"
+    ],
+    "crazy purple hair": [
+        "sheet music: sharp bass",
+        "coral"
+    ],
+    "cutaway building": [
+        "western building",
+        "tenement building"
+    ],
+    "ponytail": [
+        "rustic fence",
+        "school desk"
+    ],
+    "hospital bed": [
+        "bed",
+        "screen door"
+    ],
+    "cash register": [
+        "military radio",
+        "gargoyle"
+    ],
+    "ducky pajamas pants": [
+        "rubber ducky",
+        "dreamstone"
+    ],
+    "purple stuff": [
+        "coral",
+        "purple block"
+    ],
+    "puzzle brick": [
+        "outie block",
+        "evil bricks"
+    ],
+    "blue star shoes": [
+        "blue star wallpaper",
+        "obelisk"
+    ],
+    "dark purple block": [
+        "purple block",
+        "grimstone"
+    ],
+    "stinky bucket": [
+        "swiss cheese block",
+        "barrel"
+    ],
+    "palm tree": [
+        "wall like an egyptian",
+        "pastel green block"
+    ],
+    "space suit": [
+        "outie block",
+        "innie block"
+    ],
+    "space connector": [
+        "plumbing",
+        "gargoyle"
+    ],
+    "fuzzy bikini top": [
+        "outie block",
+        "brown block"
+    ],
+    "fuzzy bikini bottom": [
+        "innie block",
+        "brown block"
+    ],
+    "bubble gum": [
+        "das red balloon",
+        "pastel pink block"
+    ],
+    "starchild makeup": [
+        "blue star wallpaper",
+        "checker wallpaper"
+    ],
+    "makeup": [
+        "purple stuff",
+        "pastel pink flower block"
+    ],
+    "3d glasses": [
+        "red glass block",
+        "blue glass block"
+    ],
+    "silkworm toy": [
+        "happy flower grass",
+        "pinata block"
+    ],
+    "air vent": [
+        "air duct",
+        "window"
+    ],
+    "number": [
+        "blue glass block",
+        "deep sand"
+    ],
+    "water balloon": [
+        "das red balloon",
+        "water bucket"
+    ],
+    "cutting board": [
+        "diving board",
+        "wooden table"
+    ],
+    "climbing boots": [
+        "climbing wall",
+        "stalactite"
+    ],
+    "rice": [
+        "viney block",
+        "hedge"
+    ],
+    "ghost jar": [
+        "amphora",
+        "aqua cave crystal"
+    ],
+    "g-virus info sign": [
+        "telephone",
+        "number block"
+    ],
+    "acid-washed skinny jeans": [
+        "acid",
+        "blue block"
+    ],
+    "telephone": [
+        "music box",
+        "black block"
+    ],
+    "igneous rock": [
+        "swiss cheese block",
+        "ocean rock"
+    ],
+    "boombox": [
+        "steel block",
+        "black block"
+    ],
+    "jetpack": [
+        "steel block",
+        "lava"
+    ],
+    "robot wants dubstep": [
+        "steel block",
+        "note block"
+    ],
+    "golden block": [
+        "steel block",
+        "yellow block"
+    ],
+    "the darkness": [
+        "steel block",
+        "evil bricks"
+    ],
+    "magic bacon wallpaper": [
+        "rainbow block",
+        "house entrance"
+    ],
+    "plate mail": [
+        "steel block",
+        "portcullis"
+    ],
+    "ice": [
+        "cloudstone",
+        "glass pane"
+    ],
+    "race end flag": [
+        "race start flag",
+        "checker wallpaper"
+    ],
+    "checkpoint": [
+        "cloudstone",
+        "bubble wrap"
+    ],
+    "blue wristband": [
+        "race start flag",
+        "blueberry"
+    ],
+    "ladder": [
+        "big old up arrow",
+        "wooden platform"
+    ],
+    "bookcase": [
+        "rainbow block",
+        "dresser"
+    ],
+    "red sportsball jersey": [
+        "big old up arrow",
+        "white block"
+    ],
+    "pinball bumper": [
+        "blue star wallpaper",
+        "steel block"
+    ],
+    "steel girder": [
+        "steel block",
+        "lattice background"
+    ],
+    "mailbox": [
+        "steel block",
+        "big old up arrow"
+    ],
+    "clouds": [
+        "cloudstone",
+        "glass block"
+    ],
+    "password door": [
+        "jail door",
+        "steel block"
+    ],
+    "roulette wheel": [
+        "card block",
+        "cuzco wall mount"
+    ],
+    "farmgirl hair": [
+        "velvet rope",
+        "poppy"
+    ],
+    "science station": [
+        "military radio",
+        "toxic waste barrel"
+    ],
+    "streetlamp": [
+        "neon lights",
+        "plumbing"
+    ],
+    "cowboy hat": [
+        "sand",
+        "big old up arrow"
+    ],
+    "sherrif's vest": [
+        "jail door",
+        "blue star wallpaper"
+    ],
+    "pillar": [
+        "ancient stone gate",
+        "marble block"
+    ],
+    "microwave": [
+        "toxic waste barrel",
+        "televison"
+    ],
+    "couch": [
+        "hospital bed",
+        "stripey wallpaper"
+    ],
+    "donation box": [
+        "display box",
+        "pastel purple block"
+    ],
+    "ducky pajama top": [
+        "cloudstone",
+        "rubber ducky"
+    ],
+    "pastel purple block": [
+        "purple block",
+        "magic egg"
+    ],
+    "pastel purple flower block": [
+        "pastle purple block",
+        "magic egg"
+    ],
+    "jellyfish": [
+        "neon lights",
+        "climbing vine"
+    ],
+    "marquee block": [
+        "gem sign",
+        "neon lights"
+    ],
+    "adventure item - rope": [
+        "velvet rope",
+        "wall like an egyptian"
+    ],
+    "adventure item - key": [
+        "jail door",
+        "wall like an egyptian"
+    ],
+    "adventure item - torch": [
+        "wall like an egyptian",
+        "fireplace"
+    ],
+    "safari jacket": [
+        "path marker",
+        "window curtains"
+    ],
+    "shop sign": [
+        "western banner",
+        "pastel blue block"
+    ],
+    "stage support": [
+        "sheet music: flat bass",
+        "wrought-iron fence"
+    ],
+    "muscle suit": [
+        "western banner",
+        "pastel yellow flower block"
+    ],
+    "rockin' headband": [
+        "sheet music: sharp bass",
+        "velvet rope"
+    ],
+    "pink hair bow": [
+        "pastel pink flower block",
+        "bubble gum"
+    ],
+    "glowy block": [
+        "neon lights",
+        "cutaway building"
+    ],
+    "sequoia tree": [
+        "palm tree",
+        "wooden background"
+    ],
+    "solar panel": [
+        "potted daisy",
+        "glass pane"
+    ],
+    "porthole": [
+        "space connector",
+        "window"
+    ],
+    "prehistoric palm": [
+        "palm tree",
+        "cactus"
+    ],
+    "television": [
+        "olde timey radio",
+        "saloon door"
+    ],
+    "soda jetpack": [
+        "toxic waste barrel",
+        "bubble wrap"
+    ],
+    "drumkit": [
+        "toxic waste barrel",
+        "sheet music: drums"
+    ],
+    "bee hair pin": [
+        "path marker",
+        "tiger block"
+    ],
+    "hot pink highlights": [
+        "neon lights",
+        "black block"
+    ],
+    "superpower card - muscle": [
+        "card block",
+        "green block"
+    ],
+    "superpower card - fire": [
+        "card block",
+        "red block"
+    ],
+    "superpower card - ice": [
+        "card block",
+        "aqua block"
+    ],
+    "superpower card - lightning": [
+        "card block",
+        "yellow block"
+    ],
+    "football helmet": [
+        "jail door",
+        "pastel orange wallpaper"
+    ],
+    "fc jersey": [
+        "dark red block",
+        "purple stuff"
+    ],
+    "display block": [
+        "display box",
+        "steel block"
+    ],
+    "sink": [
+        "marble block",
+        "water bucket"
+    ],
+    "air conditioner": [
+        "air vent",
+        "solar panel"
+    ],
+    "writing desk": [
+        "cutting board",
+        "pencil"
+    ],
+    "paint bucket": [
+        "dark yellow block",
+        "dark purple block"
+    ],
+    "preppy blonde hair": [
+        "number",
+        "churro block"
+    ],
+    "firefighter helmet - yellow": [
+        "big old up arrow",
+        "orange block"
+    ],
+    "black braids": [
+        "dark blue block",
+        "dark purple block"
+    ],
+    "surg-e": [
+        "puzzle brick",
+        "hospital bed"
+    ],
+    "pepper tree": [
+        "palm tree",
+        "apple"
+    ],
+    "disco ball": [
+        "boombox",
+        "window"
+    ],
+    "fireplace": [
+        "golden block",
+        "evil bricks"
+    ],
+    "ninja mask": [
+        "the darkness",
+        "black block"
+    ],
+    "ninja vest": [
+        "the darkness",
+        "blue block"
+    ],
+    "ninja tights": [
+        "the darkness",
+        "purple block"
+    ],
+    "ninja slippers": [
+        "the darkness",
+        "brown block"
+    ],
+    "chicken": [
+        "clouds",
+        "rubber ducky"
+    ],
+    "high tech wall": [
+        "robot wants dubstep",
+        "black block"
+    ],
+    "high tech block": [
+        "robot wants dubstep",
+        "grey block"
+    ],
+    "fishnet stockings": [
+        "the darkness",
+        "boombox"
+    ],
+    "art wall": [
+        "magic bacon wallpaper",
+        "rainbow block"
+    ],
+    "venus guytrap": [
+        "magic bacon wallpaper",
+        "daisy"
+    ],
+    "air robinsons": [
+        "bubble wrap",
+        "race end flag"
+    ],
+    "baneful mask": [
+        "the darkness",
+        "plumbing"
+    ],
+    "fishbowl": [
+        "ice",
+        "wooden window"
+    ],
+    "growbeats headphones": [
+        "boombox",
+        "note block"
+    ],
+    "pinball sproinger": [
+        "pinball bumper",
+        "mushroom"
+    ],
+    "treasure chest": [
+        "golden block",
+        "dresser"
+    ],
+    "golden sword": [
+        "golden block",
+        "picket fence"
+    ],
+    "elvish longbow": [
+        "ladder",
+        "big old sideways arrow"
+    ],
+    "blackrock wall": [
+        "the darkness",
+        "lava rock"
+    ],
+    "green wallpaper": [
+        "magic bacon wallpaper",
+        "green block"
+    ],
+    "brown wallpaper": [
+        "magic bacon wallpaper",
+        "brown block"
+    ],
+    "orange wallpaper": [
+        "magic bacon wallpaper",
+        "orange block"
+    ],
+    "yellow wallpaper": [
+        "magic bacon wallpaper",
+        "yellow block"
+    ],
+    "grey wallpaper": [
+        "magic bacon wallpaper",
+        "grey block"
+    ],
+    "blue wallpaper": [
+        "magic bacon wallpaper",
+        "blue block"
+    ],
+    "purple wallpaper": [
+        "magic bacon wallpaper",
+        "purple block"
+    ],
+    "aqua wallpaper": [
+        "magic bacon wallpaper",
+        "aqua block"
+    ],
+    "red wallpaper": [
+        "magic bacon wallpaper",
+        "red block"
+    ],
+    "white wallpaper": [
+        "magic bacon wallpaper",
+        "white block"
+    ],
+    "black wallpaper": [
+        "magic bacon wallpaper",
+        "black block"
+    ],
+    "wizard hat": [
+        "dreamstone",
+        "bookcase"
+    ],
+    "traffic barricade": [
+        "ladder",
+        "table lamp"
+    ],
+    "flipping coin": [
+        "golden block",
+        "sheet music: drums"
+    ],
+    "fire escape": [
+        "steel girder",
+        "ladder"
+    ],
+    "cave entrance": [
+        "the darkness",
+        "cliffside"
+    ],
+    "black-rimmed glasses": [
+        "the darkness",
+        "glass pane"
+    ],
+    "gold chain": [
+        "golden block",
+        "climbing vine"
+    ],
+    "sunken anchor": [
+        "steel girder",
+        "deep rock"
+    ],
+    "bushy beard": [
+        "sequoia tree",
+        "bush"
+    ],
+    "butterfly hair pin": [
+        "path marker",
+        "robot wants dubstep"
+    ],
+    "caveman club": [
+        "sequoia tree",
+        "cutaway building"
+    ],
+    "theater seat": [
+        "couch",
+        "martian soil"
+    ],
+    "black beret": [
+        "jellyfish",
+        "the darkness"
+    ],
+    "coffee maker": [
+        "science station",
+        "exclamation sign"
+    ],
+    "adventure item - golden idol": [
+        "golden block",
+        "wall like an egyptian"
+    ],
+    "adventure item - banana": [
+        "prehistoric palm",
+        "wall like an egyptian"
+    ],
+    "pith helmet": [
+        "pillar",
+        "sandstone"
+    ],
+    "diving board support": [
+        "stage support",
+        "diving board"
+    ],
+    "mega rock speaker": [
+        "boombox",
+        "sheet music: flat piano"
+    ],
+    "movie camera": [
+        "porthole",
+        "space connector"
+    ],
+    "hanging guytrap": [
+        "magic bacon wallpaper",
+        "rose"
+    ],
+    "growbans": [
+        "the darkness",
+        "window"
+    ],
+    "happy sun shirt": [
+        "solar panel",
+        "orange block"
+    ],
+    "guestbook": [
+        "shop sign",
+        "bookcase"
+    ],
+    "flower checkpoint": [
+        "checkpoint",
+        "flowery wallpaper"
+    ],
+    "knight helmet": [
+        "steel girder",
+        "grimsstone"
+    ],
+    "red sun dress": [
+        "solar panel",
+        "red block"
+    ],
+    "checkered dress": [
+        "race end flag",
+        "checker wallpaper"
+    ],
+    "puffy orange jacket": [
+        "clouds",
+        "orange stuff"
+    ],
+    "phone booth": [
+        "password door",
+        "amber glass"
+    ],
+    "basketball hoop": [
+        "streetlamp",
+        "adventure item - rope"
+    ],
+    "bridal veil": [
+        "screen door",
+        "white block"
+    ],
+    "sporty goal": [
+        "space connector",
+        "adventure item - rope"
+    ],
+    "blue mailbox": [
+        "mailbox",
+        "blue block"
+    ],
+    "cybernetic arm": [
+        "steel girder",
+        "boombox"
+    ],
+    "fishing rod": [
+        "adventure item - rope",
+        "sequoia tree"
+    ],
+    "spirit storage unit": [
+        "adventure item - key",
+        "ancient stone gate"
+    ],
+    "camo pants": [
+        "cliffside",
+        "prehistoric palm"
+    ],
+    "fashionable dress": [
+        "marquee block",
+        "jade block"
+    ],
+    "high heels": [
+        "stage support",
+        "jade block"
+    ],
+    "display shelf": [
+        "writing desk",
+        "bookcase"
+    ],
+    "cardboard box": [
+        "brown wallpaper",
+        "happy joy plaque"
+    ],
+    "ruby slippers": [
+        "disco ball",
+        "red block"
+    ],
+    "mystery block": [
+        "steel block",
+        "disco ball"
+    ],
+    "golden halo": [
+        "disco ball",
+        "yellow block"
+    ],
+    "fairy crown": [
+        "disco ball",
+        "grass"
+    ],
+    "fairy dress": [
+        "disco ball",
+        "aqua block"
+    ],
+    "fairy skirt": [
+        "disco ball",
+        "daisy"
+    ],
+    "fairy slippers": [
+        "disco ball",
+        "poppy"
+    ],
+    "fairy wings": [
+        "disco ball",
+        "flowery wallpaper"
+    ],
+    "fairy wand": [
+        "disco ball",
+        "wood block"
+    ],
+    "sack o' joy": [
+        "disco ball",
+        "note block"
+    ],
+    "saturday night vest": [
+        "disco ball",
+        "golden block"
+    ],
+    "white bellbottoms": [
+        "disco ball",
+        "white block"
+    ],
+    "rainbow wig": [
+        "fireplace",
+        "rainbow block"
+    ],
+    "cannon": [
+        "fireplace",
+        "black block"
+    ],
+    "chandelier": [
+        "fireplace",
+        "golden block"
+    ],
+    "stove": [
+        "high tech block",
+        "lava rock"
+    ],
+    "time-space rupture": [
+        "high tech wall",
+        "house entrance"
+    ],
+    "space helmet": [
+        "fishbowl",
+        "checkpoint"
+    ],
+    "orange portal": [
+        "high tech wall",
+        "orange block"
+    ],
+    "blue portal": [
+        "high tech block",
+        "blue block"
+    ],
+    "dragon gate": [
+        "venus guytrap",
+        "portcullis"
+    ],
+    "wizard's robe": [
+        "purple wallpaper",
+        "happy joy plaque"
+    ],
+    "chalkboard": [
+        "grey wallpaper",
+        "painting: yerfdog"
+    ],
+    "crimson eagle wings": [
+        "red wallpaper",
+        "blue wallpaper"
+    ],
+    "skeleton": [
+        "grey wallpaper",
+        "ice"
+    ],
+    "hammer pants": [
+        "purple wallpaper",
+        "tangram block"
+    ],
+    "combat vest": [
+        "green wallpaper",
+        "aqua wallpaper"
+    ],
+    "dice block": [
+        "art wall",
+        "grey block"
+    ],
+    "slot machine": [
+        "roulette wheel",
+        "yellow wallpaper"
+    ],
+    "zeta reticulant mask": [
+        "grey wallpaper",
+        "military radio"
+    ],
+    "refrigerator": [
+        "treasure chest",
+        "ice"
+    ],
+    "sproingy eyes": [
+        "pinball sproinger",
+        "apple"
+    ],
+    "overalls": [
+        "blue wallpaper",
+        "barrel"
+    ],
+    "fire hydrant": [
+        "red wallpaper",
+        "water bucket"
+    ],
+    "gothic building": [
+        "blackrock wall",
+        "orange wallpaper"
+    ],
+    "achievement block": [
+        "art wall",
+        "wood block"
+    ],
+    "campfire": [
+        "fireplace",
+        "cactus"
+    ],
+    "corset": [
+        "pinball sproinger",
+        "pastel aqua block"
+    ],
+    "war paint": [
+        "fire escape",
+        "tomato"
+    ],
+    "plain white tee": [
+        "white wallpaper",
+        "white block"
+    ],
+    "foam finger": [
+        "white wallpaper",
+        "pointy sign"
+    ],
+    "compu panel": [
+        "high tech block",
+        "neon lights"
+    ],
+    "astronaut pack": [
+        "traffic barricade",
+        "super crate box"
+    ],
+    "moon boots": [
+        "pinball sproinger",
+        "grey block"
+    ],
+    "surgical tools": [
+        "high tech wall",
+        "biohazard sign"
+    ],
+    "open sign": [
+        "white wallpaper",
+        "street sign"
+    ],
+    "meaty apron": [
+        "chicken",
+        "brick background"
+    ],
+    "wetsuit top": [
+        "black wall",
+        "swiss cheese block"
+    ],
+    "wetsuit pants": [
+        "black wallpaper",
+        "yellow block"
+    ],
+    "diving bell": [
+        "fishbowl",
+        "steel block"
+    ],
+    "great white shark": [
+        "white wallpaper",
+        "venus guytrap"
+    ],
+    "giant clam": [
+        "treasure chest",
+        "deep sand"
+    ],
+    "movie screen": [
+        "television",
+        "grey wallpaper"
+    ],
+    "theater curtain": [
+        "window curtains",
+        "red wallpaper"
+    ],
+    "clapboard": [
+        "traffic barricade",
+        "checker wallpaper"
+    ],
+    "evil brick background": [
+        "red wallpaper",
+        "evil bricks"
+    ],
+    "gateway to adventure": [
+        "aqua wallpaper",
+        "ancient stone gate"
+    ],
+    "explorer's shovel": [
+        "sunken anchor",
+        "pencil"
+    ],
+    "flatscreen tv": [
+        "black wallpaper",
+        "television"
+    ],
+    "pink pageboy": [
+        "guestbook",
+        "pastel pink block"
+    ],
+    "growies cap": [
+        "blue mailbox",
+        "devilfruit"
+    ],
+    "man u jersey": [
+        "red bricks",
+        "adventure item - banana"
+    ],
+    "fish tank": [
+        "fishbowl",
+        "wooden window"
+    ],
+    "firefighter boots": [
+        "black wallpaper",
+        "dark yellow block"
+    ],
+    "wedding dress": [
+        "white wallpaper",
+        "rose"
+    ],
+    "fashion purse": [
+        "cave entrance",
+        "jade block"
+    ],
+    "stylin' dresses": [
+        "flower checkpoint",
+        "jade block"
+    ],
+    "smarty pants": [
+        "white wallpaper",
+        "rainbow block"
+    ],
+    "beehive": [
+        "pastel orange flower block",
+        "hanging guytrap"
+    ],
+    "dark red wallpaper": [
+        "red wallpaper",
+        "blackrock wall"
+    ],
+    "onion": [
+        "venus guytrap",
+        "foliage"
+    ],
+    "pirate hat": [
+        "cannon",
+        "mushroom"
+    ],
+    "eyepatch": [
+        "cannon",
+        "cuzco wall mount"
+    ],
+    "hoop earrings": [
+        "golden halo",
+        "poppy"
+    ],
+    "blueberry pie": [
+        "stove",
+        "blueberry"
+    ],
+    "chef hat": [
+        "stove",
+        "mushroom"
+    ],
+    "apron": [
+        "stove",
+        "checker wallpaper"
+    ],
+    "spatula": [
+        "stove",
+        "picket fence"
+    ],
+    "cigar": [
+        "time-space rupture",
+        "lava rock"
+    ],
+    "fedora": [
+        "time-space rupture",
+        "black block"
+    ],
+    "dame's fedora": [
+        "time-space rupture",
+        "poppy"
+    ],
+    "pinstripe suit": [
+        "time-space rupture",
+        "rose"
+    ],
+    "pinstripe pants": [
+        "time-space rupture",
+        "stripey wallpaper"
+    ],
+    "blue headband": [
+        "golden halo",
+        "race start flag"
+    ],
+    "victrola": [
+        "time-space rupture",
+        "olde timey radio"
+    ],
+    "art deco block": [
+        "time-space rupture",
+        "grey block"
+    ],
+    "flapper headband": [
+        "time-space rupture",
+        "daisy"
+    ],
+    "flapper dress": [
+        "time-space rupture",
+        "lava"
+    ],
+    "bulletin board": [
+        "chalkboard",
+        "lattice background"
+    ],
+    "headsman's axe": [
+        "dragon gate",
+        "pencil"
+    ],
+    "tombstone": [
+        "skeleton",
+        "granite block"
+    ],
+    "flaming skull mask": [
+        "skeleton",
+        "torch"
+    ],
+    "ripper wings": [
+        "chandelier",
+        "devil horns"
+    ],
+    "straw hat": [
+        "golden halo",
+        "wheat"
+    ],
+    "cow": [
+        "refrigerator",
+        "brown block"
+    ],
+    "laboratory": [
+        "refrigerator",
+        "biohazard sign"
+    ],
+    "e-z cook oven": [
+        "stove",
+        "pastel pink block"
+    ],
+    "transmog crystal": [
+        "achievement block",
+        "purple block"
+    ],
+    "parasol": [
+        "fire hydrant",
+        "clouds"
+    ],
+    "roshambo block": [
+        "dice block",
+        "boulder"
+    ],
+    "caveman hair": [
+        "skeleton",
+        "terracotta pot"
+    ],
+    "cavewoman hair": [
+        "skeleton",
+        "wheat"
+    ],
+    "space pants": [
+        "dice block",
+        "grey block"
+    ],
+    "superhero uniform": [
+        "gateway to adventure",
+        "rainbow block"
+    ],
+    "director's chair": [
+        "theater curtain",
+        "wooden chair"
+    ],
+    "lazy cobra": [
+        "great white shark",
+        "sand"
+    ],
+    "game block": [
+        "slot machine",
+        "roulette wheel"
+    ],
+    "action hero stubble": [
+        "movie screen",
+        "tiger block"
+    ],
+    "rock n' roll wallpaper": [
+        "campfire",
+        "flowery wallpaper"
+    ],
+    "stadium": [
+        "dark grey block",
+        "open sign"
+    ],
+    "fountain": [
+        "fire hydrant",
+        "gargoyle"
+    ],
+    "battle pet cage": [
+        "steam door",
+        "iron bars"
+    ],
+    "goatee": [
+        "evil brick background",
+        "cuzco wall mount"
+    ],
+    "oxygen mask": [
+        "fish tank",
+        "air vent"
+    ],
+    "sorcerer stone": [
+        "googly-eyed diamond-encrusted draped filigreed jade block",
+        "granite block"
+    ],
+    "blue hardhat": [
+        "beehive",
+        "pastel blue wallpaper"
+    ],
+    "fossil brush": [
+        "adventure item - torch",
+        "rice"
+    ],
+    "mannequin": [
+        "skeleton",
+        "barrel"
+    ],
+    "pocket lighter": [
+        "adventure item - torch",
+        "aqua block"
+    ],
+    "tavern sign": [
+        "art deco block",
+        "sign"
+    ],
+    "scoreboard": [
+        "bulletin board",
+        "table lamp"
+    ],
+    "rocket thruster": [
+        "e-z cook oven",
+        "big old up arrow"
+    ],
+    "cow cube": [
+        "cow",
+        "barn door"
+    ],
+    "whatchamacallit": [
+        "laboratory",
+        "compu panel"
+    ],
+    "game grave": [
+        "game block",
+        "tombstone"
+    ],
+    "game flag": [
+        "game block",
+        "race start flag"
+    ],
+    "game goal": [
+        "game block",
+        "race end flag"
+    ],
+    "staging platform": [
+        "game block",
+        "mannequin"
+    ],
+    "flamethrower": [
+        "rock n' roll wallpaper",
+        "lava cube"
+    ],
+    "minotaur mask": [
+        "buffalo",
+        "deep sand"
+    ],
+    "leather jacket": [
+        "cow",
+        "deep rock"
+    ],
+    "crowded stadium": [
+        "stadium",
+        "pastel orange flower block"
+    ],
+    "battle leash": [
+        "battle pet cage",
+        "gem sign"
+    ],
+    "home oven": [
+        "pocket lighter",
+        "air duct"
+    ],
+    "ice cube": [
+        "cow cube",
+        "ice"
+    ],
+    "forge": [
+        "rocket thruster",
+        "evil brick background"
+    ],
+    "ice calf leash": [
+        "ice cube",
+        "cow cube"
+    ],
+    "frozen dna fragment a": [
+        "ice cube",
+        "cuzco wall mount"
+    ],
+    "frozen dna fragment b": [
+        "ice cube",
+        "buffalo"
+    ],
+    "mini mammoth leash": [
+        "frozen dna fragment a",
+        "frozen dna fragment b"
+    ],
+    "ruby block": [
+        "crystal block",
+        "dreamstone"
+    ],
+    "emerald block": [
+        "crystal block",
+        "acid"
+    ],
+    "growsaber": [
+        "crystal block",
+        "neon lights"
+    ],
+    "diamond ring": [
+        "crystal block",
+        "golden block"
+    ],
+    "emerald necklace": [
+        "emerald block",
+        "climbing vine"
+    ],
+    "rainbow wings": [
+        "ruby block",
+        "emerald block"
+    ],
+    "buffalo": [
+        "20?brown block",
+        "1?cow",
+        "1?transmog crystal"
+    ],
+    "fire hose": [
+        "toilet",
+        "lazy cobra"
+    ],
+    "bunny ears": [
+        "magic egg",
+        "polka dot block"
+    ],
+    "bunny mask": [
+        "magic egg",
+        "flowery wallpaper"
+    ],
+    "bunny tail": [
+        "magic egg",
+        "bush"
+    ],
+    "pastel suit": [
+        "magic egg",
+        "painting: dink duck"
+    ],
+    "pastel pants": [
+        "magic egg",
+        "daisy"
+    ],
+    "hippie sandals": [
+        "magic egg",
+        "wall like an egyptian"
+    ],
+    "wicker basket": [
+        "magic egg",
+        "lattice background"
+    ],
+    "cuddly bunny": [
+        "magic egg",
+        "fishbowl"
+    ],
+    "psychotic bunny": [
+        "magic egg",
+        "fishbowl"
+    ],
+    "spring crown": [
+        "magic egg",
+        "golden halo"
+    ],
+    "rotten egg": [
+        "magic egg",
+        "evil bricks"
+    ],
+    "cardboard egg": [
+        "magic egg",
+        "igneous rock"
+    ],
+    "egg wallpaper": [
+        "magic egg",
+        "red royal wallpaper"
+    ],
+    "steam tubes": [
+        "filigreed jade block",
+        "mission block"
+    ],
+    "steam door": [
+        "draped filigreed jade block",
+        "barn door"
+    ],
+    "steam valve": [
+        "display block",
+        "big old sideways arrow"
+    ],
+    "steam collector": [
+        "steam tubes",
+        "barrel"
+    ],
+    "steam organ": [
+        "steam tubes",
+        "drumkit"
+    ],
+    "steam bellows": [
+        "filigreed jade block",
+        "leaf block"
+    ],
+    "leaf block": [
+        "foliage",
+        "pastel green flower block"
+    ],
+    "steam riser bellows": [
+        "steam bellows",
+        "big old up arrow"
+    ],
+    "steam revolver": [
+        "steam tubes",
+        "roulette wheel"
+    ],
+    "steam piston": [
+        "steam tubes",
+        "viney block"
+    ],
+    "steam lifter piston": [
+        "steam tubes",
+        "viney wallpaper"
+    ],
+    "steam gear": [
+        "steam tubes",
+        "asteroid"
+    ],
+    "steam pipe": [
+        "steam tubes",
+        "copper plumbing"
+    ],
+    "steam launcher": [
+        "steam tubes",
+        "pinball sproinger"
+    ],
+    "steam scrambler": [
+        "steam tubes",
+        "dice block"
+    ],
+    "steam vent": [
+        "steam tubes",
+        "air conditioner"
+    ],
+    "steam engine": [
+        "steam tubes",
+        "e-z cook oven"
+    ],
+    "steampunk trenchcoat": [
+        "diamond-encrusted draped filigreed jade block",
+        "steam vent"
+    ],
+    "steampunk skirt": [
+        "diamond-encrusted draped filigreed jade block",
+        "steam lifter piston"
+    ],
+    "steampunk corset": [
+        "diamond-encrusted draped filigreed jade block",
+        "steam riser bellows"
+    ],
+    "steampunk waistcoat": [
+        "diamond-encrusted draped filigreed jade block",
+        "steam gear"
+    ],
+    "steampunk leggings": [
+        "diamond-encrusted draped filigreed jade block",
+        "steam stomper"
+    ],
+    "steam crossover": [
+        "steam tubes",
+        "lattice background"
+    ],
+    "steam crank": [
+        "steam tubes",
+        "fire hydrant"
+    ],
+    "steam funnel": [
+        "steam tubes",
+        "big old sideways arrow"
+    ],
+    "steam funnel - up": [
+        "steam tubes",
+        "big old up arrow"
+    ],
+    "steam funnel - down": [
+        "steam tubes",
+        "big old down arrow"
+    ],
+    "steam stomper": [
+        "gothic building",
+        "big old down arrow"
+    ],
+    "asteroid": [
+        "starseed",
+        "seagull"
+    ],
+    "pastel aqua wallpaper": [
+        "1?easter egg - striped",
+        "1?easter egg - jagged",
+        "1?easter egg - checkered"
+    ],
+    "pastel blue wallpaper": [
+        "1?easter egg - wavey",
+        "1?easter egg - striped",
+        "1?easter egg - checkered"
+    ],
+    "pastel green wallpaper": [
+        "1?easter egg - striped",
+        "1?easter egg - jagged",
+        "1?easter egg - wavey"
+    ],
+    "pastel orange wallpaper": [
+        "1?easter egg - striped",
+        "1?easter egg - polka dots",
+        "1?easter egg - wavey"
+    ],
+    "pastel pink wallpaper": [
+        "1?easter egg - striped",
+        "1?easter egg - jagged",
+        "1?easter egg - polka dots"
+    ],
+    "pastel purple wallpaper": [
+        "1?easter egg - jagged",
+        "1?easter egg - polka dots",
+        "1?easter egg - wavey"
+    ],
+    "pastel yellow wallpaper": [
+        "1?easter egg - striped",
+        "1?easter egg - polka dots",
+        "1?easter egg - checkered"
+    ],
+	"gruel": [
+		"2?wheat",
+		"2?rice",
+		"1?water bucket"
+	],
+	"golden pegasus": [
+		"1?golden heart crystal",
+		"200?candy heart",
+		"1?pegasus"
+	],
+	"golden heart glasses": [
+		"1?golden heart crystal",
+		"200?candy heart",
+		"1?heart glasses"
+	],
+	"unearthly synthoid": [
+		"200?unearthly chemical",
+		"20?synthetic chemical",
+		"200?chemical y"
+	],
+	"radioactive synthoid": [
+		"200?radioactive chemical",
+		"20?synthetic chemical",
+		"200?chemical r"
+	],
+	"mysterious synthoid": [
+		"200?mysterious chemical",
+		"20?synthetic chemical",
+		"200?chemical p"
+	],
+	"haunted synthoid": [
+		"200?haunted chemical",
+		"20?synthetic chemical",
+		"200?chemical g"
+	],
+	"untrade-a-box": [
+		"10?unearthly chemical",
+		"10?mysterious chemical",
+		"10?synthetic chemical"
+	],
+    "cosmic rain": [
+        "starseed",
+        "fountain"
+    ],
+    "hover platform": [
+        "starseed",
+        "rock platform"
+    ],
+    "spaceman suit": [
+        "starseed",
+        "adventure item - golden idol"
+    ],
+    "spaceman pants": [
+        "starseed",
+        "asteroid"
+    ],
+    "cosmic hair": [
+        "starseed",
+        "pastel green flower block"
+    ],
+    "cosmic lenses": [
+        "starseed",
+        "coffee maker"
+    ],
+    "comet shirt": [
+        "starseed",
+        "for sale sign"
+    ],
+    "rocket pack": [
+        "starseed",
+        "microwave"
+    ],
+    "comet pants": [
+        "starseed",
+        "puzzle brick"
+    ],
+    "cosmic skirt": [
+        "starseed",
+        "hanging guytrap"
+    ],
+    "velour space uniform": [
+        "starseed",
+        "theater seat"
+    ],
+    "cosmic mustache": [
+        "starseed",
+        "twisted spikes"
+    ],
+    "helmet of darkness": [
+        "starseed",
+        "the darkness"
+    ],
+    "alien block": [
+        "starseed",
+        "dark green block"
+    ],
+    "xenoid block": [
+        "starseed",
+        "dark aqua block"
+    ],
+    "ion conduit": [
+        "starseed",
+        "evil brick background"
+    ],
+    "space command seat": [
+        "starseed",
+        "director's chair"
+    ],
+    "unearthly chemical": [
+        "starseed",
+        "glowy block"
+    ],
+    "transmatter field": [
+        "starseed",
+        "display box"
+    ],
+    "one-way block": [
+        "starseed",
+        "big old sideways arrow"
+    ],
+    "cosmic unicorn bracelet": [
+        "galactic starseed",
+        "happy unicorn block"
+    ],
+    "riding meteor": [
+        "galactic starseed",
+        "roshambo block"
+    ],
+    "riding comet": [
+        "galactic starseed",
+        "giant clam"
+    ],
+    "comet beanie": [
+        "galactic starseed",
+        "diving board support"
+    ],
+    "weather machine: comet": [
+        "galactic starseed",
+        "victrola"
+    ],
+    "onisim's genie": [
+        "galactic starseed",
+        "table lamp"
+    ],
+    "star iron": [
+        "galactic starseed",
+        "wrought-iron fence"
+    ],
+    "sheet music: sax note": [
+        "sheet music: blank",
+        "yellow block"
+    ],
+    "sheet music: repeat begin": [
+        "sheet music: blank",
+        "race start flag"
+    ],
+    "sheet music: repeat end": [
+        "sheet music: blank",
+        "race end flag"
+    ],
+    "lemon": [
+        "yellow wallpaper",
+        "pastel yellow block"
+    ],
+    "corn": [
+        "beehive",
+        "mini block"
+    ],
+    "sheet music: flat sax": [
+        "sheet music: sax note",
+        "rock"
+    ],
+    "sheet music: sharp sax": [
+        "sheet music: sax note",
+        "death spikes"
+    ],
+    "red brimmed hat": [
+        "sheet music: sharp sax",
+        "dark red wallpaper"
+    ],
+    "red formal dress": [
+        "sheet music: flat sax",
+        "dark red wallpaper"
+    ],
+    "audio rack": [
+        "military radio",
+        "steam crossover"
+    ],
+    "dough": [
+        "4?wheat",
+        "1?egg",
+        "1?sugar cane"
+    ],
+    "lava cube": [
+        "1?lava",
+        "1?transmog crystal",
+        "20?super crate box"
+    ],
+    "steam spikes": [
+        "1?death spikes",
+        "1?transmog crystal",
+        "20?steam tubes"
+    ],
+    "challenge start flag": [
+        "1?challenge timer",
+        "1?transmog crystal",
+        "20?race start flag"
+    ],
+    "challenge end flag": [
+        "1?challenge timer",
+        "1?transmog crystal",
+        "20?race end flag"
+    ],
+    "painting easel": [
+        "1?paintbrush",
+        "1?transmog crystal",
+        "20?art wall"
+    ],
+    "robotic lock": [
+        "1?diamond lock",
+        "1?transmog crystal",
+        "20?robot wants dubstep"
+    ],
+    "display box": [
+        "music box",
+        "glass block"
+    ],
+    "shampoo": [
+        "water bucket",
+        "aqua cave crystal"
+    ],
+    "blue hair dye": [
+        "shampoo",
+        "dark blue block"
+    ],
+    "black hair dye": [
+        "shampoo",
+        "the darkness"
+    ],
+    "red hair dye": [
+        "shampoo",
+        "dark red block"
+    ],
+    "green hair dye": [
+        "shampoo",
+        "dark green block"
+    ],
+    "carrot pants": [
+        "orange stuff",
+        "green stuff"
+    ],
+    "crayon": [
+        "blue stuff",
+        "green stuff"
+    ],
+    "chemsynth tank": [
+        "ghost jar",
+        "water balloon"
+    ],
+    "chemsynth solvent": [
+        "chemsynth tank",
+        "shampoo"
+    ],
+    "chemsynth replicator": [
+        "chemsynth tank",
+        "crowded stadium"
+    ],
+    "chemsynth catalyst": [
+        "chemsynth tank",
+        "cosmic power - star burst"
+    ],
+    "chemsynth stirrer": [
+        "chemsynth tank",
+        "steam revolver"
+    ],
+    "chemsynth centrifuge": [
+        "chemsynth tank",
+        "steam tank"
+    ],
+    "cosmic power - star burst": [
+        "galactic starseed",
+        "superpower card - fire"
+    ],
+    "cosmic power - comet strike": [
+        "galactic starseed",
+        "superpower card - lightning"
+    ],
+    "cosmic power - lunar barrier": [
+        "galactic starseed",
+        "superpower card - muscle"
+    ],
+    "cosmic power - nebula gas": [
+        "galactic starseed",
+        "superpower card - ice"
+    ],
+    "kansas curls": [
+        "rubber ducky",
+        "pastel yellow block"
+    ],
+    "kansas pigtails": [
+        "kansas curls",
+        "pigtails"
+    ],
+    "neutron pack": [
+        "flatscreen tv",
+        "military radio"
+    ],
+    "neutron gun": [
+        "transmatter field",
+        "steam collector"
+    ],
+    "number block": [
+        "pastel blue block",
+        "exclamation sign"
+    ],
+    "orange stuff": [
+        "coral",
+        "orange block"
+    ],
+    "orange shirt": [
+        "orange wallpaper",
+        "poppy"
+    ],
+    "platinum blonde hair": [
+        "white block",
+        "pastel yellow block"
+    ],
+    "pacifier": [
+        "happy unicorn block",
+        "pastel blue flower block"
+    ],
+    "path marker": [
+        "rustic fence",
+        "exclamation sign"
+    ],
+    "pink hair": [
+        "happy unicorn block",
+        "pastel pink flower block"
+    ],
+    "ruined sign": [
+        "crappy sign",
+        "climbing vine"
+    ],
+    "showgirl top": [
+        "ice",
+        "blue star wallpaper"
+    ],
+    "simple purple dress": [
+        "pastel purple",
+        "pastel purple flower block"
+    ],
+    "sushi knife": [
+        "twisted spikes",
+        "iron bars"
+    ],
+    "sewing machine": [
+        "cash register",
+        "movie camera"
+    ],
+    "tommygun": [
+        "time-space rupture",
+        "death spikes"
+    ],
+    "transdimensional vaporizer gun": [
+        "air duct",
+        "transmatter field"
+    ],
+    "wooden table": [
+        "wood block",
+        "wooden platform"
+    ],
+    "wooden window": [
+        "window",
+        "wooden background"
+    ],
+    "wooden sword": [
+        "happy flower grass",
+        "tavern sign"
+    ],
+    "happy flower grass": [
+        "1?easter egg - wavey",
+        "1?easter egg - checkered",
+        "1?easter egg - polka dots"
+    ],
+    "tangyuan": [
+        "water bucket",
+        "wheat"
+    ],
+    "candy cane block": [
+        "red wood wall",
+        "white block"
+    ],
+    "candy cane fence": [
+        "wrought-iron fence",
+        "sugar cane"
+    ],
+    "candy cane platform": [
+        "rock platform",
+        "sugar cane"
+    ],
+    "festivus pole": [
+        "checkpoint",
+        "wooden platform"
+    ],
+    "holiday gift box": [
+        "treasure chest",
+        "slot machine"
+    ],
+    "giant candle": [
+        "torch",
+        "climbing vine"
+    ],
+    "snowy rocks": [
+        "rock",
+        "ice"
+    ],
+    "antler hat": [
+        "cuzco wall mount",
+        "das red balloon"
+    ],
+    "snowmobile": [
+        "mega rock speaker",
+        "orange stuff"
+    ],
+    "steel axe handle": [
+        "ice cube",
+        "lazy cobra"
+    ],
+    "lumber axe": [
+        "dark brown block",
+        "dark grey block"
+    ],
+    "icicles": [
+        "snowy rocks",
+        "death spikes"
+    ],
+    "yeti hat": [
+        "twisted spikes",
+        "ice"
+    ],
+    "siberian tiger block": [
+        "tiger block",
+        "snowy rocks"
+    ],
+    "buckskin hood": [
+        "cave entrance",
+        "rock platform"
+    ],
+    "buckskin jacket": [
+        "cave entrance",
+        "barrel"
+    ],
+    "buckskin pants": [
+        "cave entrance",
+        "brown block"
+    ],
+    "winter scarf": [
+        "snowy rocks",
+        "aqua block"
+    ],
+    "sock on the wall": [
+        "texas limestone",
+        "red royal wallpaper"
+    ],
+    "snowball": [
+        "ice",
+        "water bucket"
+    ],
+    "yeonnalligi": [
+        "orange portal",
+        "blue portal"
+    ],
+    "overgrown vines": [
+        "dark green block",
+        "climbing vine"
+    ],
+    "jungle fern": [
+        "dark green block",
+        "palm tree"
+    ],
+    "statue mouth": [
+        "ancient block",
+        "dragon gate"
+    ],
+    "adventure rope piton": [
+        "climbing wall",
+        "adventure item - rope"
+    ],
+    "adventure checkpoint": [
+        "happy joy plaque",
+        "checkpoint"
+    ],
+    "the adventure begins": [
+        "race start flag",
+        "adventure checkpoint"
+    ],
+    "adventure's end": [
+        "race end flag",
+        "adventure checkpoint"
+    ],
+    "statue block": [
+        "ancient block",
+        "tangram block a"
+    ],
+    "statue eye": [
+        "ancient block",
+        "tangram block a"
+    ],
+    "statue headdress": [
+        "ancient block",
+        "tangram block a"
+    ],
+    "statue nose": [
+        "ancient block",
+        "tangram block a"
+    ],
+    "locked adventure door": [
+        "adventure item - key",
+        "barn door"
+    ],
+    "adventure pedestal": [
+        "adventure item - golden idol",
+        "cave platform"
+    ],
+    "ancient block": [
+        "ancient stone gate",
+        "mini blocks"
+    ],
+    "angry adventure gorilla": [
+        "adventure item - banana",
+        "stalagmite"
+    ],
+    "adventure idol gate": [
+        "dragon gate",
+        "yellow block"
+    ],
+    "adventure tomb gate": [
+        "portcullis",
+        "ruined sign"
+    ],
+    "adventure brazier": [
+        "campfire",
+        "torch"
+    ],
+    "mystery door": [
+        "roshambo block",
+        "saloon doors"
+    ],
+    "adventure barrier": [
+        "wood block",
+        "traffic barricade"
+    ],
+    "cherry": [
+        "blueberry",
+        "dark red block"
+    ],
+    "adventure item - crystal goblet": [
+        "wall like an egyptian",
+        "fishbowl"
+    ],
+    "hanging snake": [
+        "venus guytrap",
+        "overgrown vines"
+    ],
+    "dark green wallpaper": [
+        "dark green block",
+        "magic bacon wallpaper"
+    ],
+    "dark blue wallpaper": [
+        "dark blue block",
+        "magic bacon wallpaper"
+    ],
+    "black espadrille": [
+        "the darkness",
+        "wooden platform"
+    ],
+    "checkered espadrille": [
+        "checker wallpaper",
+        "wooden platform"
+    ],
+	"unicorn hair": [
+		"rainbow block",
+		"picket fence"
+	],
+	"emerald pickaxe": [
+		"100?emerald shard",
+		"2?grip tape",
+		"1?steel axe handle"
+	],
+	"beanbag": [
+		"couch",
+		"bubble wrap"
+	],
+	"sports bra": [
+		"race start flag",
+		"outie block"
+	],
+	"wedding headdress": [
+		"golden block",
+		"portcullis"
+	],
+	"sarong": [
+        "purple wallpaper",
+        "golden block"
+    ],
+	"dress with smock": [
+		"diamond-encrusted draped filigreed jade block",
+		"stripey wallpaper"
+	],
+	"waistcoat and jacket": [
+		"diamond-encrusted draped filigreed jade block",
+		"red royal wallpaper"
+	],
+	"orange": [
+        "poppy",
+        "bush"
+    ],
+	"inside-out devil wings": [
+		"1?devil wings",
+		"20?innie block",
+		"1?transmog crystal"
+	],
+	"burning hands": [
+		"200?mysterious chemical",
+		"20?synthetic chemical",
+		"200?radioactive chemical"
+	],
+	"flaming horsie": [
+		"1?spiked collar",
+		"20?limb connector",
+		"20?flaming horse chunk"
+	],
+	"newspaper": [
+		"western banner",
+		"white wallpaper"
+	],
+	"chicken plow": [
+		"1?riding chicken",
+		"2?dear john tractor",
+		"1?bridle design"
+	],
+	"fire asteroid": [
+		"20?fire essence",
+		"5?earth essence",
+		"1?asteroid"
+	],
+	"water asteroid": [
+		"20?water essence",
+		"5?wind essence",
+		"1?asteroid"
+	],
+	"earth asteroid": [
+		"20?earth essence",
+		"5?water essence",
+		"1?asteroid"
+	],
+	"wind asteroid": [
+		"20?wind essence",
+		"5?fire essence",
+		"1?asteroid"
+	],
+	"inferno gate": [
+		"20?fire essence",
+		"5?earth essence",
+		"1?crystal gate"
+	],
+	"tidal gate": [
+		"20?water essence",
+		"5?wind essence",
+		"1?crystal gate"
+	],
+	"typhoon gate": [
+		"20?wind essence",
+		"5?fire essence",
+		"1?crystal gate"
+	],
+	"verdant gate": [
+		"20?earth essence",
+		"5?water essence",
+		"1?crystal gate"
+	],
+	"ancient hinge": [
+		"2?fire asteroid",
+		"2?water asteroid",
+		"5?fire essence"
+	],
+	"ancient pin": [
+		"2?fire asteroid",
+		"2?water asteroid",
+		"5?water essence"
+	],
+	"ancient bracket": [
+		"2?earth asteroid",
+		"2?water asteroid",
+		"5?earth essence"
+	],
+	"ancient lens": [
+		"2?wind asteroid",
+		"2?earth asteroid",
+		"5?wind essence"
+	],
+	"crystallized reality": [
+		"100?ancient plant seed",
+		"4?verdant gate",
+		"5?earth essence"
+	],
+	"crystallized wealth": [
+		"200?sorcerer stone",
+		"4?inferno gate",
+		"5?fire essence"
+	],
+	"crystallized brilliance": [
+		"200?chandelier",
+		"4?typhoon gate",
+		"5?wind essence"
+	],
+	"crystallized nature": [
+		"30?crystal tree",
+		"4?tidal gate",
+		"5?water essence"
+	],
+	"ancestral totem of wisdom": [
+		"1?crystallized brilliance",
+		"2?ancient hinge",
+		"5?ancient lens"
+	],
+	"ancestral tesseract of dimensions": [
+		"1?crystallized reality",
+		"2?ancient bracket",
+		"5?ancient pin"
+	],
+	"ancestral seed of life": [
+		"1?crystallized nature",
+		"2?ancient lens",
+		"5?ancient bracket"
+	],
+	"ancestral lens of riches": [
+		"1?crystallized wealth",
+		"2?ancient pin",
+		"5?ancient hinge"
+	]
+}

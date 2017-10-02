@@ -1,0 +1,10 @@
+{
+	"name": "Intellect",
+	"version": "0.0.1",
+	"description": "Intellect is a utility Discord bot meant for Growtopia servers.",
+	"main": "bot.js",
+	"dependencies": {
+		"discord.js": "^12.0.0"
+	},
+	"license": "GPL-3"
+}
