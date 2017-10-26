@@ -270,7 +270,7 @@ module.exports = {
             msg.channel.send('Please specify the rarity.')
           }
         }
-      } else msg.channel.send('Please specify the amount of blocks.')
+      } else msg.channel.send('Please specify the amount of trees.')
     }
   },
   'item': {
@@ -305,6 +305,12 @@ module.exports = {
         } else {
           properties.push("This item can't be spliced.")
         }
+		if ((data.properties & 4096) > 0) {
+          properties.push('This item is PUBLIC: Even if it\'s locked, anyone can smash it.')
+        }
+		if ((data.properties & 2048) > 0) {
+          properties.push('A tree of this type can bear surprising fruit!')
+        }
         if ((data.properties & 4) > 0) {
           properties.push('This item never drops any seeds.')
         }
@@ -332,7 +338,7 @@ module.exports = {
         m.channel.send({
           embed: {
             thumbnail: {
-              url: 'https://tools.cernodile.com/growtopia/getItem.php?id=' + data.id
+              url: 'https://tools.cernodile.com/growtopia/getItem.php?id=' + data.id + "&ts=223102017"
             },
             'color': 0x3EE034,
             'description': '**' + data.name + '** (' + (data.rarity === 999 ? 'No Rarity' : 'Rarity ' + data.rarity) + ', ID ' + data.id + ')\n*' + data.description + '*\n\n' + properties.join('\n')
